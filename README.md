@@ -38,7 +38,7 @@ Este é um projeto simples em JavaScript, HTML e CSS que permite aos usuários:
 
 1. Clone ou baixe o repositório.
    ```bash
-   git clone https://github.com/henrymzs/desafio-amigo-secreto.git
+   https://github.com/henrymzs/Secret-Santa-Challenge.git
    ```
 
 2. Navegue até a pasta do projeto.
